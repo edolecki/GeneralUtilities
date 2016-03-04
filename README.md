@@ -13,3 +13,4 @@ print("8 days later: \(8.days.fromNow)")
 print("2 weeks before: \(2.weeks.ago)")
 print("5 days, 3 months later: \((5.days + 3.months).fromNow)")
 ```
+It's my intention to add some extensions and general use code over time to this puppy.
